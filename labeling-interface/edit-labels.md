@@ -12,23 +12,21 @@ Right-click on the label and select the appropriate class from the pop-up menu
 You can also press the number next to the class name to select that class
 {% endhint %}
 
-#### Changing Label Size
+#### Changing Label Shape and Size
 
-Select and drag a vertex to move it to correct the size of the label
+Select and drag a vertex to move it to correct the shape and size of the label
 
-#### Changing Label Shape
+If the label you are editing is a polygon, it is possible to add additional vertices to the label.
 
-If the label you are editing is a polygon, it is possible to add vertices and change the shape of the label.
-
-Simply select an edge and drag the vertex that appears to your chosen position.
+Simply select an edge and drag the vertex that appears on your chosen position.
 
 {% embed url="https://drive.google.com/file/d/1kqtPkgN6bpPGuSAr7xYIAvBRr77WZ5hb/view" %}
 
 
 
+#### Changing Label location
 
+Click anywhere inside the label and drag it to another position
 
-
-
-
+{% embed url="https://drive.google.com/file/d/19-KE88fbK3Oicn-69veD\_CmLMi4fwy90/view" %}
 
