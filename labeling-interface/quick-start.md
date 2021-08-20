@@ -8,7 +8,7 @@ The first step is to gather a dataset of images containing rhinos. You can save 
 
 ### 2. Create a project for your data set
 
-![](https://lh5.googleusercontent.com/ycOQ9qy_FYNLu4UsB2b3c6d6Al70YtFqlaJUo86gwhZ4HTUqy09olk4mjiL-TQiU62z4slM5H6FnScur0LBNIIRPrIHc_pR2BeZYcrIq6aVHsxemff9hSo2PFHgFPm9090c8GOWJ)![](https://lh6.googleusercontent.com/hc3wdUh4WrUcTGTsx5pf9BBnIRNZ1dgCBRy0xkmKF2cAshOdEFraiFOdRV-_h_obA8S1RPzghxrMYS7lAii1yCSAuMgE-9NSGESFbrky_q_1r0vVK5JWtlPZRABd1QroFXhzpJZc)
+![](https://lh6.googleusercontent.com/hc3wdUh4WrUcTGTsx5pf9BBnIRNZ1dgCBRy0xkmKF2cAshOdEFraiFOdRV-_h_obA8S1RPzghxrMYS7lAii1yCSAuMgE-9NSGESFbrky_q_1r0vVK5JWtlPZRABd1QroFXhzpJZc)
 
 Navigate to app.labelflow.ai and you will be welcomed with this interface. Press “Start Labeling”. Click on “Create new project” and give your project a name. Now press “Start Labeling” and enter your project.
 
@@ -54,7 +54,7 @@ Labels can overlap, intersect or encompass other labels. Zoom in on your images 
 Create as many label classes as you need.  
 
 
-### Export Labels
+### 5. Export Labels
 
 Once you are finished, select the export tool on the top right.
 
