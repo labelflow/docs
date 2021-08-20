@@ -18,7 +18,7 @@ You can upload your images to Labelflow from your local computer or your online 
 
 ![](../.gitbook/assets/drag_and_drop_images.png)
 
-If you want draw the images your online database or from anywhere on the internet, simply press "import from a list of URLs instead" button. Copy and paste the image URLs and select "Start Import". It's that easy 👌.
+If you want draw the images your online database or from anywhere on the internet, simply press "import from a list of URLs instead" button. Copy and paste the image URLs and select "Start Import". It's that easy.👌
 
 ![](../.gitbook/assets/import_from_url.png)
 
