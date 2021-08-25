@@ -1,6 +1,6 @@
 # COCO
 
-COCO is a file format for object detections within an image. It describes the boundaries and attributes of labels inside an image which makes it a perfect as an input for training AI models.
+COCO is a file format for object detections within an image. It describes the boundaries and attributes of labels inside an image which makes it perfect as an input for training AI models.
 
 Once you are finished with your labeling project, select the export tool on the top right.
 

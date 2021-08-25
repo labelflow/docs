@@ -13,7 +13,8 @@
 
 ## Import images
 
-* [Untitled](import-images/untitled.md)
+* [Import from Database](import-images/import-from-database.md)
+* [Import from Computer](import-images/untitled.md)
 
 ## Export dataset
 
