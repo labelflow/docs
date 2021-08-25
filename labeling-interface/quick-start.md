@@ -40,12 +40,8 @@ Select the small arrow on the drawing tool and choose the polygon tool. Draw a p
 
 Navigate between your images by simply choosing the next image you would like to label or clicking the small arrows at the bottom left. You can also use the left and right arrow keys.
 
-![](https://lh4.googleusercontent.com/5FI-3rsR1NK728CPp3GKROppwxoCBUYCDHxaKPOFw49x8IhenFFqMIR7ehZG8vCjXCsHLjcXpDfQcQsYHJLRjjhoGKeVwljmSa4GTCxO6LmDI5MUX6k6xXeWApb0mdW7wxQWjMFK)
-
 {% hint style="info" %}
-You can use different shortcuts to optimize your productivity
-
-* You can find the complete list of shortcuts by clicking on the keyboard icon on the top right
+Click on the keyboard icon on the top right to see the complete list of shortcuts
 {% endhint %}
 
 

@@ -10,6 +10,7 @@
 * [Edit labels](labeling-interface/edit-labels.md)
 * [Datasets](labeling-interface/datasets.md)
 * [Classes](labeling-interface/classes.md)
+* [Shortcuts](labeling-interface/shortcuts.md)
 
 ## Import images
 
