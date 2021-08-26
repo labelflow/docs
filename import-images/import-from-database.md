@@ -4,10 +4,10 @@ There are two ways to import images to your dataset. The first method is used to
 
 These are the simple steps you should follow to import from your database
 
-1. Press the "Add images" button on the top right
-2. Select "import from a list of URLs instead" button
+1. Press the **Add images** button on the top right
+2. Select **Import from a list of URLs instead** button
 3. Copy and paste the image URLs
-4. Select "Start Import"
+4. Select **Start Import**
 
 It's that easy. 🔥👌
 

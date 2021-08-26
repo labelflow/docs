@@ -6,7 +6,19 @@ We are working on it! For the moment the images you load to Labelflow are saved 
 
 ## Can I request a new feature?
 
-Please do! You can drop a message on our [discord channel](https://discord.gg/bH7894tR)
+Please do! You can ask or upvote a specific feature here:
+
+{% embed url="https://labelflow.canny.io/feature-requests" %}
+
+## Is your roadmap public?
+
+Yes! You can see the features/Bugs that are planned or that we are working on here:
+
+{% embed url="https://labelflow.canny.io/" %}
+
+
+
+
 
 
 
