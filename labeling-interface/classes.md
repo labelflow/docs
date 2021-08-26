@@ -2,7 +2,7 @@
 
 A class is a category in which labels are classified. It helps group similar labels together, which is essential for any labeling project. A class is defined by its name and has its own color to help differentiate it from the others.
 
-#### Create New Classes
+### Create New Classes
 
 When you create a new labeling project, it comes with the default class "None". These are the simple steps you need to take to create more labels
 
@@ -12,5 +12,13 @@ When you create a new labeling project, it comes with the default class "None". 
 
 {% embed url="https://drive.google.com/file/d/1OnGLcZES-7Gy5vgH1IF0uQD5OmfQAB4t/view" %}
 
- 
+### Edit Classes
+
+The classes tab in your project space shows all the information about all the classes in your project. The total number of classes is also visible to help you.
+
+![](../.gitbook/assets/classes.png)
+
+You can change the name of a class by selecting the edit icon and giving your class a new name.
+
+You can also delete a class and all labels associated with it will be classified as "None".
 

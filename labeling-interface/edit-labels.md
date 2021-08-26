@@ -2,7 +2,7 @@
 
 Once you have created a label for your object, you may want to change its shape, size, location, or class.
 
-#### Changing Label Class
+### Changing Label Class
 
 Right-click on the label and select the appropriate class from the pop-up menu
 
@@ -12,7 +12,7 @@ Right-click on the label and select the appropriate class from the pop-up menu
 You can also press the number next to the class name to select that class
 {% endhint %}
 
-#### Changing Label Shape and Size
+### Changing Label Shape and Size
 
 Select and drag a vertex to move it to correct the shape and size of the label
 
@@ -24,7 +24,7 @@ Simply select an edge and drag the vertex that appears on your chosen position.
 
 
 
-#### Changing Label location
+### Changing Label location
 
 Click anywhere inside the label and drag it to another position
 
