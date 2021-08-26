@@ -34,7 +34,7 @@ Select the bounding box tool and click on the edges of the Rhinos you would like
 
 #### Polygon
 
-![](https://lh3.googleusercontent.com/g9-tURADK7BmteeYc4Lw2wLble271Wq8fzq8YWrUnE4L8fANZli0wYehgAYcUNRMchnZDA3yLlTssa1GXlM4EGjGYrU6SuyJNPt6HaHuQaofREUDiMuOMn6mcrAMmCoeVIhfz0gi)
+![](../.gitbook/assets/polygon_tool.png)
 
 Select the small arrow on the drawing tool and choose the polygon tool. Draw a polygon around the rhino and adjust the vertices at the end by dragging them.
 
