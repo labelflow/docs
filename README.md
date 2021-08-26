@@ -6,7 +6,7 @@ description: The beginner's guide to the image labeling annotation tool LabelFlo
 
 ## What is LabelFlow?
 
-At LabelFlow we build the fastest labeling interface on the internet. The open standard tool for image labeling and annotation for AI and machine learning at scale.
+At LabelFlow we are on a mission to build the fastest labeling interface on the internet!
 
 Our mission is to provide the AI community with a solution that seamlessly integrates within their software ecosystem while providing the most straightforward labeling experience.  LabelFlow is also open source because involving the users helps us build a better platform that they will like. It doesn’t hurt that it improves our image too 😉.
 

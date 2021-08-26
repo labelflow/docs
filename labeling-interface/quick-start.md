@@ -6,11 +6,11 @@ Let us take the case that you are making an AI model that identifies rhinos from
 
 The first step is to gather a dataset of images containing rhinos. You can save it online or store it locally on your computer. Your data stays in its original location during the entire project so that you are in control of your data.
 
-### 2. Create a project for your data set
+### 2. Create a dataset
 
 ![](https://lh6.googleusercontent.com/hc3wdUh4WrUcTGTsx5pf9BBnIRNZ1dgCBRy0xkmKF2cAshOdEFraiFOdRV-_h_obA8S1RPzghxrMYS7lAii1yCSAuMgE-9NSGESFbrky_q_1r0vVK5JWtlPZRABd1QroFXhzpJZc)
 
-Navigate to [LabelFlow](www.labelflow.ai) and you will be welcomed with this interface. Press “Start Labeling”. Click on “Create new project” and give your project a name. Now press “Start Labeling” and enter your project.
+Navigate to [LabelFlow](www.labelflow.ai) and you will be welcomed with this interface. Press “Start Labeling”. Click on “Create new dataset” and give your dataset a name. Now press “Start Labeling” and enter your dataset.
 
 ### **3. Import your images**
 
@@ -18,7 +18,7 @@ Navigate to [LabelFlow](www.labelflow.ai) and you will be welcomed with this int
 
 Press “Add images” and you drop all the images that you will label for this project. You can drag and drop the images onto the screen or paste the URL to your database. You can also drop the URL to your database if your images are on the cloud.
 
-It will lead you to a gallery where you can see all your pictures.""
+It will lead you to a gallery where you can see all your pictures.
 
 Select the image you would like to label first and away we go!  
 
