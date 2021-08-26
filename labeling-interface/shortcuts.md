@@ -1,6 +1,6 @@
 # Shortcuts
 
-There are many shortcuts in Labelflow you can take advantage of to optimize your productivity. Click on the keyboard icon on the top right to see the complete list of shortcuts
+There are many shortcuts in LabelFlow you can take advantage of to optimize your productivity. Click on the keyboard icon on the top right to see the complete list of shortcuts
 
 ![](https://lh4.googleusercontent.com/5FI-3rsR1NK728CPp3GKROppwxoCBUYCDHxaKPOFw49x8IhenFFqMIR7ehZG8vCjXCsHLjcXpDfQcQsYHJLRjjhoGKeVwljmSa4GTCxO6LmDI5MUX6k6xXeWApb0mdW7wxQWjMFK)
 

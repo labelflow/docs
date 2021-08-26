@@ -14,6 +14,6 @@ It's that easy. 🔥👌
 ![](../.gitbook/assets/uploading_images.gif)
 
 {% hint style="info" %}
-Images are not uploaded to Labelflow servers so you are in control of your data.
+Images are not uploaded to LabelFlow servers so you are in control of your data.
 {% endhint %}
 

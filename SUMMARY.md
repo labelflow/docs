@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro to Labelflow](README.md)
+* [Intro to LabelFlow](README.md)
 
 ## Labeling interface
 

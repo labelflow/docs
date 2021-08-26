@@ -13,6 +13,6 @@ It's that easy. 🔥👌
 ![](../.gitbook/assets/drag_and_drop_images.png)
 
 {% hint style="info" %}
-Images are not uploaded to Labelflow servers so you are in control of your data.
+Images are not uploaded to LabelFlow servers so you are in control of your data.
 {% endhint %}
 

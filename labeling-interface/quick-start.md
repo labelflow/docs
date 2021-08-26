@@ -10,7 +10,7 @@ The first step is to gather a dataset of images containing rhinos. You can save 
 
 ![](https://lh6.googleusercontent.com/hc3wdUh4WrUcTGTsx5pf9BBnIRNZ1dgCBRy0xkmKF2cAshOdEFraiFOdRV-_h_obA8S1RPzghxrMYS7lAii1yCSAuMgE-9NSGESFbrky_q_1r0vVK5JWtlPZRABd1QroFXhzpJZc)
 
-Navigate to [labelflow](www.labelflow.ai) and you will be welcomed with this interface. Press “Start Labeling”. Click on “Create new project” and give your project a name. Now press “Start Labeling” and enter your project.
+Navigate to [LabelFlow](www.labelflow.ai) and you will be welcomed with this interface. Press “Start Labeling”. Click on “Create new project” and give your project a name. Now press “Start Labeling” and enter your project.
 
 ### **3. Import your images**
 
