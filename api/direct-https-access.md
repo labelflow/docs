@@ -1,5 +1,28 @@
 # Direct HTTPS access
 
+While the GraphQL playground is a good way to learn, develop and interact with our Graph API, direct access to the API using HTTPS requests is done in production. 
+
+As an example, here we will consider how to perform the following graphQL query with various tools. Here is the GraphQL query:
+
+```graphql
+query myQueryExample($numberOfImages:Int) {
+  images(first:$numberOfImages){
+    id
+    name
+  }
+}
+```
+
+This query needs some variables to be executed. Here are the variables:
+
+```python
+{"numberOfImages":10}
+```
+
+This query can be executed in the playground like this:
+
+![](../.gitbook/assets/image%20%283%29.png)
+
 ## HTTP
 
 ```http
