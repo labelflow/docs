@@ -10,7 +10,7 @@ Once you are finished with your labeling project, select the export tool on the 
 
 This will give you a small menu with information about the number of labels and allows you to specify the export format. Select the [COCO](https://cocodataset.org/#home) file type and it will download to your labels in the COCO format.
 
-### Exporting Images
+### Exporting Images 
 
 As an option you can export in a zip file the images together with the COCO detection file.
 

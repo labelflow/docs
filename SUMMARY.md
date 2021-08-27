@@ -25,7 +25,6 @@
 
 * [Presentation](api/presentation.md)
 * [Getting started](api/getting-started.md)
-* [Direct HTTPS access](api/direct-https-access.md)
 
 ## Support
 
