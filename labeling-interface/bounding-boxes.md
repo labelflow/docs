@@ -8,7 +8,7 @@ These are the simple steps you need to take to make a bounding box label
 2. Click on the outermost edge of the subject of the label
 3. Click the opposite edge of the object to create a rectangle covering the subject
 
-{% embed url="https://drive.google.com/file/d/1PZnLArh\_BRCCorqBH7Y-MzSlMKA\_Psx-/view" %}
+{% embed url="https://youtu.be/SmPY7czZFjI" %}
 
 {% hint style="info" %}
 You can move and resize the bounding box to make changes after it is created

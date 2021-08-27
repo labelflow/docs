@@ -16,11 +16,11 @@ You can also press the number next to the class name to select that class
 
 Select and drag a vertex to move it to correct the shape and size of the label
 
-If the label you are editing is a polygon, it is possible to add additional vertices to the label.
+If the label you are editing is a polygon, it is possible to add additional vertices to it.
 
 Simply select an edge and drag the vertex that appears on your chosen position.
 
-{% embed url="https://drive.google.com/file/d/1kqtPkgN6bpPGuSAr7xYIAvBRr77WZ5hb/view" %}
+{% embed url="https://youtu.be/hWJfY6jhaag" %}
 
 
 
@@ -28,5 +28,5 @@ Simply select an edge and drag the vertex that appears on your chosen position.
 
 Click anywhere inside the label and drag it to another position
 
-{% embed url="https://drive.google.com/file/d/19-KE88fbK3Oicn-69veD\_CmLMi4fwy90/view" %}
+{% embed url="https://youtu.be/LDV51jgwFnk" %}
 

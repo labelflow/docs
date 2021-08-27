@@ -10,7 +10,7 @@ When you create a new labeling project, it comes with the default class "None". 
 2. Click on the search field and write the name of the new class
 3. Press enter or click on the button that says "Create class \[New\_Class\] "
 
-{% embed url="https://drive.google.com/file/d/1OnGLcZES-7Gy5vgH1IF0uQD5OmfQAB4t/view" %}
+{% embed url="https://youtu.be/v5nFalLCs94" %}
 
 ### Edit Classes
 
