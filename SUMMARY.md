@@ -21,6 +21,11 @@
 
 * [COCO](export-dataset/untitled.md)
 
+## API
+
+* [Presentation](api/presentation.md)
+* [Getting started](api/getting-started.md)
+
 ## Support
 
 * [Discord channel](support/discord-channel.md)
