@@ -14,7 +14,7 @@ When you create a new labeling project, it comes with the default class "None". 
 
 ### Edit Classes
 
-The classes tab in your project space shows all the information about all the classes in your project. The total number of classes is also visible to help you. The numbers that appear next to the class names are the respective keyboard shortcuts for the classes. 
+The classes tab in your project space shows all the information about all the classes in your project. The total number of classes is also visible to help you. The numbers that appear next to the class names are the respective keyboard shortcuts that can be used to quickly select the appropriate class. 
 
 ![](../.gitbook/assets/classes.png)
 
