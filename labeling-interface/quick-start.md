@@ -54,11 +54,11 @@ Create as many label classes as you need.
 
 ### 5. Export Labels
 
-Once you are finished, select the export tool on the top right.
+Once you've finished, select the export tool on the top right.
 
 ![](https://lh3.googleusercontent.com/3K_EKiUpd9e5fYxeGI078TwYKKu8QkWgj1we1kjTZLYofRfGeP-vQl7nyBdVfivbw_tL6hmFsFdc84MKDjN3s8wT2enHFHUqvZ9U1mdRQarK5qMhH9Bj9y-X_qdS4gJapFcb0zmv)
 
-This will give you a small menu with information about the number of labels and allows you to specify the export format, including [COCO](https://cocodataset.org/#home).
+A small pop-up will appear with information about the number of labels and will prompt you to specify the export format, such as [COCO](https://cocodataset.org/#home).
 
 Select your desired file type and it will download to your device.
 
