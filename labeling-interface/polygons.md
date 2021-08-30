@@ -6,12 +6,11 @@ By definition, polygon labels are closer in shape to the subject of the label th
 
 These are the simple steps you need to take to make a polygon label:
 
-1. Click on the arrow on the bottom right of the label tool on the left
-2. Select the polygon tool 
-3. Click on the outermost edge of the subject of the label
-4. Follow the edges of the subject and select the vertices of the polygon
-5. When you are finished click on the vertex near the pointer and the polygon will be created
-6. Right-click on the label to select/add its class
+1. Select the small arrow on the drawing tool on the left and select the ploygon tool
+2. Click on the outermost edge of the subject of the label
+3. Follow the edges of the subject and select the vertices of the polygon
+4. When you are finished click on the vertex near the pointer and the polygon will be created
+5. Right-click on the label to select/add its class
 
 ![](../.gitbook/assets/polygon_tool.png)
 
