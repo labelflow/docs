@@ -11,6 +11,7 @@ These are the simple steps you need to take to make a polygon label:
 3. Click on the outermost edge of the subject of the label
 4. Follow the edges of the subject and select the vertices of the polygon
 5. When you are finished click on the vertex near the pointer and the polygon will be created
+6. Right-click on the label to select/add its class
 
 ![](../.gitbook/assets/polygon_tool.png)
 
