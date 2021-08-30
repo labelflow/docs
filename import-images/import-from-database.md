@@ -1,8 +1,8 @@
 # Import from Database
 
-There are two ways to import images to your dataset. The first method is used to import them from an online source such as your database or other images on the internet. All you need to provide is the link to the images and that's it.
+There are two ways to import images to your dataset. The first method is to import them from an online source such as your database or other online sources. All you need to provide is the link to the images and that's it.
 
-These are the simple steps you should follow to import from your database
+These are the simple steps you should follow to import from your database:
 
 1. Press the **Add images** button on the top right
 2. Select **Import from a list of URLs instead** button
