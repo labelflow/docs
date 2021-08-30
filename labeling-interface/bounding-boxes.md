@@ -2,7 +2,7 @@
 
 A bounding box is the simplest type of label that is defined by just two points.
 
-These are the simple steps you need to take to make a bounding box label
+These are the simple steps you need to take to make a bounding box label:
 
 1. Select the bounding box tool on the left
 2. Click on the outermost edge of the subject of the label
