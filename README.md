@@ -14,5 +14,5 @@ Our mission is to provide the AI community with a solution that seamlessly integ
 
 Based on years of experience working in the energy space helping utility companies to identify hazards on power grids, we clearly figured out that it was possible to bring AI to scale in complex use cases, saving time and increasing reliability. However, there is a “BUT”. There is no secret sauce: the dataset must be large, homogeneous AND accurately labeled.
 
-Head on over to [Quick Start ](https://app.gitbook.com/@labelflow/s/labelflow/labeling-interface/quick-start)and let us take a test case to see how you can leverage LabelFlow to bring your machine learning models to scale today!
+Head on over to [Quick start ](https://app.gitbook.com/@labelflow/s/labelflow/labeling-interface/quick-start)and let us take a test case to see how you can leverage LabelFlow to bring your machine learning models to scale today!
 
