@@ -15,11 +15,11 @@
 ## Import images
 
 * [Import from Database](import-images/import-from-database.md)
-* [Import from Computer](import-images/untitled.md)
+* [Import from Computer](import-images/import-from-computer.md)
 
 ## Export dataset
 
-* [COCO](export-dataset/untitled.md)
+* [COCO](export-dataset/coco.md)
 
 ## API
 
