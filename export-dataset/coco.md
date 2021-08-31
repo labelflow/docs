@@ -17,7 +17,7 @@ As an option, you can export the images together with the COCO detection file in
 ![](../.gitbook/assets/image%20%281%29.png)
 
 {% hint style="info" %}
-Note that it may take several minutes when you export the images of a large dataset in a zip file. \(1000+ images\).
+Note that it may take several minutes ⏱ when you export the images of a large dataset \(1000+ images\).
 {% endhint %}
 
 
