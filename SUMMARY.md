@@ -2,15 +2,15 @@
 
 * [Intro to LabelFlow](README.md)
 
-## Labeling interface
+## Labelling interface
 
-* [Quick start](labeling-interface/quick-start.md)
-* [Bounding boxes](labeling-interface/bounding-boxes.md)
-* [Polygons](labeling-interface/polygons.md)
-* [Edit labels](labeling-interface/edit-labels.md)
-* [Datasets](labeling-interface/datasets.md)
-* [Classes](labeling-interface/classes.md)
-* [Shortcuts](labeling-interface/shortcuts.md)
+* [Quick start](labelling-interface/quick-start.md)
+* [Bounding boxes](labelling-interface/bounding-boxes.md)
+* [Polygons](labelling-interface/polygons.md)
+* [Edit labels](labelling-interface/edit-labels.md)
+* [Datasets](labelling-interface/datasets.md)
+* [Classes](labelling-interface/classes.md)
+* [Shortcuts](labelling-interface/shortcuts.md)
 
 ## Import images
 

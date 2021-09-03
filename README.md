@@ -6,9 +6,9 @@ description: The beginner's guide to the image labelling annotation tool LabelFl
 
 ## What is LabelFlow?
 
-At LabelFlow we are on a mission to build the fastest labeling interface on the internet!
+At LabelFlow we are on a mission to build the fastest labelling interface on the internet!
 
-Our mission is to provide the AI community with a solution that seamlessly integrates within their software ecosystem while providing the most straightforward labeling experience.  Labelflow is also [open source](https://github.com/Labelflow/labelflow) because involving the users helps us build a better platform FOR the users. 
+Our mission is to provide the AI community with a solution that seamlessly integrates within their software ecosystem while providing the most straightforward labelling experience.  Labelflow is also [open source](https://github.com/Labelflow/labelflow) because involving the users helps us build a better platform FOR the users. 
 
 ![](.gitbook/assets/king_of_the_jungle.png)
 
