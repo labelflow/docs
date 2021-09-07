@@ -10,5 +10,5 @@ The Graph API uses the **GraphQL query language**, at modern, open specification
 
 ## **Security**
 
-The API is available as a GraphQL API over HTTPS. **All communications with the API are encrypted and secured** using state-of-the-art standards. The API is used by LabelFlow's own applications. It is open to integration with customers IT systems.
+The API is available as a GraphQL API over HTTPS. **All communications with the API are encrypted and secured** using state-of-the-art standards. The API is used by LabelFlow's own applications. It is open to integration with customers' IT systems.
 

@@ -6,11 +6,11 @@ LabelFlow GraphQL playground is the best way to get started with the API. Just c
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-As the images on LabelFlow are stored locally only, there is not authentication needed. All query and mutations will be done on a database stored locally in your browser.
+As the images on LabelFlow are stored locally only, there is no authentication needed. All queries and mutations will be done on a database stored locally in your browser.
 
 ## **Perform our first GraphQL Query**
 
-Let’s write a graphQL query which asks for the ids**,** names and dataset id of the first 10 images you have access to**:**
+Let’s write a graphQL query which asks for the ids**,** names, and dataset id of the first 10 images you have access to**:**
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
