@@ -9,6 +9,7 @@ There are many shortcuts in LabelFlow you can take advantage of to optimize your
 * Press `v` to activate the selection tool
 * Press `b` to select the bounding box tool
 * Press `p` to select the polygon tool
+* Press `k` to select the classification tool
 * Press `c` to change the class of the currently selected label
 * Press `del` or `Backspace` to delete selected label
 * Press from `0` to `9` to select the corresponding class for the selected label

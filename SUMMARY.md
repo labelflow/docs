@@ -10,6 +10,7 @@
 * [Edit labels](labelling-interface/edit-labels.md)
 * [Datasets](labelling-interface/datasets.md)
 * [Classes](labelling-interface/classes.md)
+* [Image classification](labelling-interface/image-classification.md)
 * [Shortcuts](labelling-interface/shortcuts.md)
 
 ## Import images
@@ -20,6 +21,7 @@
 ## Export dataset
 
 * [COCO](export-dataset/coco.md)
+* [YOLO](export-dataset/yolo.md)
 
 ## API
 
