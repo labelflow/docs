@@ -6,7 +6,7 @@ These are the simple steps you should follow to import from your computer:
 
 1. Press the **Add images** button on the top right
 2. Drag and drop your images and/or folders.
-3. Select **Start Labeling** once the import is finished
+3. Select **Start Labeling **once the import is finished
 
 It's that easy. 🔥👌
 
@@ -15,4 +15,3 @@ It's that easy. 🔥👌
 {% hint style="info" %}
 Images are not uploaded to LabelFlow servers so you are in control of your data.
 {% endhint %}
-

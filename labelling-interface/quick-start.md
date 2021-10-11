@@ -8,9 +8,9 @@ The first step is to gather a dataset of images containing rhinos. You can save 
 
 ### 2. Create a dataset
 
-![](https://lh6.googleusercontent.com/hc3wdUh4WrUcTGTsx5pf9BBnIRNZ1dgCBRy0xkmKF2cAshOdEFraiFOdRV-_h_obA8S1RPzghxrMYS7lAii1yCSAuMgE-9NSGESFbrky_q_1r0vVK5JWtlPZRABd1QroFXhzpJZc)
+![](https://lh6.googleusercontent.com/hc3wdUh4WrUcTGTsx5pf9BBnIRNZ1dgCBRy0xkmKF2cAshOdEFraiFOdRV-\_h_obA8S1RPzghxrMYS7lAii1yCSAuMgE-9NSGESFbrky_q\_1r0vVK5JWtlPZRABd1QroFXhzpJZc)
 
-Navigate to [LabelFlow](www.labelflow.ai) and you will be welcomed with this interface. Press “Start Labeling”. Click on “Create new dataset” and give your dataset a name. Now press “Start Labeling” and enter your dataset.
+Navigate to [LabelFlow](https://www.labelflow.ai) and you will be welcomed with this interface. Press “Start Labeling”. Click on “Create new dataset” and give your dataset a name. Now press “Start Labeling” and enter your dataset.
 
 ### **3. Import your images**
 
@@ -20,16 +20,16 @@ Press “Add images” and you drop all the images that you will label for this 
 
 It will lead you to a gallery where you can see all your pictures.
 
-Select the image you would like to label first and away we go!  
+Select the image you would like to label first and away we go!\
 
 
 ### 4. Label Images
 
 #### Bounding Box
 
-![](https://lh3.googleusercontent.com/oJ07s47ne-dkuIy94_OQUrP3BWHGsfoG44gPtraFSSJVm14tZKJv2i5mtg09BITuJGAGeZ9zh98tMC4Dj6idT7ZZgKT0U9m5nxZJH2QwjWHP1W89IOPH79MyCG1K74lPObd_zw8O)
+![](https://lh3.googleusercontent.com/oJ07s47ne-dkuIy94\_OQUrP3BWHGsfoG44gPtraFSSJVm14tZKJv2i5mtg09BITuJGAGeZ9zh98tMC4Dj6idT7ZZgKT0U9m5nxZJH2QwjWHP1W89IOPH79MyCG1K74lPObd_zw8O)
 
-Select the bounding box tool and click on the edges of the Rhinos you would like to label. Two guiding lines will be available to help you select the edges. Right-click on the bounding box to specify the class of the label. Labels are colored by class for convenience.  
+Select the bounding box tool and click on the edges of the Rhinos you would like to label. Two guiding lines will be available to help you select the edges. Right-click on the bounding box to specify the class of the label. Labels are colored by class for convenience.\
 
 
 #### Polygon
@@ -48,8 +48,8 @@ Click on the keyboard icon on the top right to see the complete list of shortcut
 
 ![](../.gitbook/assets/screen-shot-2021-08-19-at-1.03.26-pm.png)
 
-Labels can overlap, intersect or encompass other labels. Zoom in on your images by using the top right button or by using the trackpad.  
-Create as many label classes as you need.  
+Labels can overlap, intersect or encompass other labels. Zoom in on your images by using the top right button or by using the trackpad.\
+Create as many label classes as you need.\
 
 
 ### 5. Export Labels
@@ -62,6 +62,4 @@ A small pop-up will appear with information about the number of labels and will 
 
 Select your desired file type and it will download to your device.
 
-Now you are ready to train your AI model! It’s that easy! 👌  
-
-
+Now you are ready to train your AI model! It’s that easy! 👌\
