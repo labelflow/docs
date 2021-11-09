@@ -16,9 +16,7 @@
 ## Import dataset
 
 * [Import from Database](import-dataset/import-from-database.md)
-* [Import from Computer](import-dataset/import-from-computer/README.md)
-  * [Import images](import-dataset/import-from-computer/import-images.md)
-  * [Import images and labels](import-dataset/import-from-computer/import-images-and-labels.md)
+* [Import from Computer](import-dataset/import-from-computer.md)
 
 ## Export dataset
 

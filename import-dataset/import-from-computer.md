@@ -16,7 +16,7 @@ These are the simple steps you should follow to import from your computer:
 
 It's that easy. 🔥👌
 
-![](../../.gitbook/assets/drag\_and\_drop\_images.png)
+![](../.gitbook/assets/drag\_and\_drop\_images.png)
 
 {% hint style="info" %}
 Images are not uploaded to LabelFlow servers so you are in control of your data.
@@ -24,7 +24,7 @@ Images are not uploaded to LabelFlow servers so you are in control of your data.
 
 ## Import Images and Labels
 
-LabelFlow can ingest Images and Labels into a dataset when in the COCO format.
+LabelFlow can ingest Images and Labels into a dataset. For that you must drop a zip file containing the images and the labels in COCO format.
 
 * Open an existing dataset or create a new one
 * Press the **Add images** button on the top right
@@ -33,9 +33,9 @@ LabelFlow can ingest Images and Labels into a dataset when in the COCO format.
 
 It's that easy. 🔥👌
 
-
+![](<../.gitbook/assets/Screen Recording 2021-11-09 at 14.24.23.mov.gif>)
 
 {% hint style="info" %}
-You can first export an existing dataset in the COCO format to see how is organized the dataset zip file LabelFlow is able to ingest.
+This feature allows you to share a dataset with someone: from LabelFlow export the dataset in COCO format, your colleague can then import the zip file in a new dataset.
 {% endhint %}
 
