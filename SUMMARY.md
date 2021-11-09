@@ -13,10 +13,12 @@
 * [Image classification](labelling-interface/image-classification.md)
 * [Shortcuts](labelling-interface/shortcuts.md)
 
-## Import images
+## Import dataset
 
-* [Import from Database](import-images/import-from-database.md)
-* [Import from Computer](import-images/import-from-computer.md)
+* [Import from Database](import-dataset/import-from-database.md)
+* [Import from Computer](import-dataset/import-from-computer/README.md)
+  * [Import images](import-dataset/import-from-computer/import-images.md)
+  * [Import images and labels](import-dataset/import-from-computer/import-images-and-labels.md)
 
 ## Export dataset
 
@@ -32,4 +34,3 @@
 
 * [Discord channel](support/discord-channel.md)
 * [FAQ](support/faq.md)
-

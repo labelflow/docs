@@ -1,6 +1,10 @@
+---
+description: Import images by copy-pasting their public URLs
+---
+
 # Import from Database
 
-There are two ways to import images to your dataset. The first method is to import them from an online source such as your database or other online sources. All you need to provide is the link to the images and that's it.
+There are two ways to import images and labels to your dataset. The first method is to import them from an online source such as your database or other online sources. All you need to provide is the link to the images and that's it.
 
 These are the simple steps you should follow to import from your database:
 
@@ -11,9 +15,8 @@ These are the simple steps you should follow to import from your database:
 
 It's that easy. 🔥👌
 
-![](../.gitbook/assets/uploading_images.gif)
+![](../.gitbook/assets/uploading\_images.gif)
 
 {% hint style="info" %}
 Images are not uploaded to LabelFlow servers so you are in control of your data.
 {% endhint %}
-
