@@ -9,6 +9,8 @@ These are the simple steps you need to take to make a bounding box label:
 3. Click the opposite edge of the object to create a rectangle covering the subject
 4. Right-click on the label to select/add its class
 
+{% embed url="https://youtu.be/BC4HjqElfjM" %}
+
 {% embed url="https://youtu.be/SmPY7czZFjI" %}
 
 {% hint style="info" %}
@@ -17,4 +19,3 @@ You can move and resize the bounding box to make changes after it is created
 * Select and drag a vertex to its correct position
 * Click anywhere in the label to drag it to the correct position
 {% endhint %}
-

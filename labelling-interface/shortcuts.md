@@ -2,7 +2,7 @@
 
 There are many shortcuts in LabelFlow you can take advantage of to optimize your productivity. Click on the keyboard icon on the top right to see the complete list of shortcuts
 
-![](https://lh4.googleusercontent.com/5FI-3rsR1NK728CPp3GKROppwxoCBUYCDHxaKPOFw49x8IhenFFqMIR7ehZG8vCjXCsHLjcXpDfQcQsYHJLRjjhoGKeVwljmSa4GTCxO6LmDI5MUX6k6xXeWApb0mdW7wxQWjMFK)
+{% embed url="https://youtu.be/nZN-b6AlkFQ" %}
 
 ### Tools
 
@@ -11,7 +11,7 @@ There are many shortcuts in LabelFlow you can take advantage of to optimize your
 * Press `p` to select the polygon tool
 * Press `k` to select the classification tool
 * Press `c` to change the class of the currently selected label
-* Press `del` or `Backspace` to delete selected label
+* Press `del` or `Backspace` to delete the selected label
 * Press from `0` to `9` to select the corresponding class for the selected label
 * Press `/` or `f` to search for labels in the label class selection
 
@@ -25,4 +25,3 @@ There are many shortcuts in LabelFlow you can take advantage of to optimize your
 * Press `Esc` to cancel current action
 * Press `ctrl + z` or `cmd + z` to undo last action
 * Press `ctrl + y`, `ctrl + shift + y`, `cmd + y`, or `cmd + shift + z` to redo last action
-

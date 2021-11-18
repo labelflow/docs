@@ -15,7 +15,9 @@ These are the simple steps you should follow to import from your database:
 
 It's that easy. 🔥👌
 
-![](../.gitbook/assets/uploading\_images.gif)
+
+
+{% embed url="https://youtu.be/ls4FHAx0k_g" %}
 
 {% hint style="info" %}
 Images are not uploaded to LabelFlow servers so you are in control of your data.
