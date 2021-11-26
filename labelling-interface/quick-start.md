@@ -8,13 +8,13 @@ The first step is to gather a dataset of images containing rhinos. You can save 
 
 ### 2. Create a dataset
 
-![](https://lh6.googleusercontent.com/hc3wdUh4WrUcTGTsx5pf9BBnIRNZ1dgCBRy0xkmKF2cAshOdEFraiFOdRV-\_h_obA8S1RPzghxrMYS7lAii1yCSAuMgE-9NSGESFbrky_q\_1r0vVK5JWtlPZRABd1QroFXhzpJZc)
+![](<../.gitbook/assets/Screenshot 2021-11-26 at 16.35.33.jpg>)
 
-Navigate to [LabelFlow](https://www.labelflow.ai) and you will be welcomed with this interface. Press “Start Labeling”. Click on “Create new dataset” and give your dataset a name. Now press “Start Labeling” and enter your dataset.
+Navigate to [LabelFlow](https://www.labelflow.ai) and you will be welcomed with this interface. Press “Start Labeling”. Click on  “Create new dataset” and give your dataset a name. Now press “Start Labeling” and enter your dataset.
 
 ### **3. Import your images**
 
-![](https://lh5.googleusercontent.com/-ta_FrnrUH15PCbE65-8v3oL1eeP3s8dT7bal7umEdDW_KZNBQcmshMXJZnruyoQCO7QcnspxcfopoMzoTgcfKxzL5HOOY-sLlLo2tP1z6ux0r9wWCjlktldM1kfgAKXg3utq7MM)
+![](<../.gitbook/assets/arrow\_add\_images (1).png>)
 
 Press “Add images” and you drop all the images that you will label for this project. You can drag and drop the images onto the screen or paste the URL to your database. You can also drop the URL to your database if your images are on the cloud.
 
@@ -27,14 +27,14 @@ Select the image you would like to label first and away we go!\
 
 #### Bounding Box
 
-![](https://lh3.googleusercontent.com/oJ07s47ne-dkuIy94\_OQUrP3BWHGsfoG44gPtraFSSJVm14tZKJv2i5mtg09BITuJGAGeZ9zh98tMC4Dj6idT7ZZgKT0U9m5nxZJH2QwjWHP1W89IOPH79MyCG1K74lPObd_zw8O)
+![](<../.gitbook/assets/Screenshot 2021-11-26 at 16.41.50.jpg>)
 
 Select the bounding box tool and click on the edges of the Rhinos you would like to label. Two guiding lines will be available to help you select the edges. Right-click on the bounding box to specify the class of the label. Labels are colored by class for convenience.\
 
 
 #### Polygon
 
-![](../.gitbook/assets/polygon_tool.png)
+![](../.gitbook/assets/polygon\_tool.png)
 
 Select the small arrow on the drawing tool and choose the polygon tool. Draw a polygon around the rhino and adjust the vertices at the end by dragging them.
 
@@ -54,9 +54,9 @@ Create as many label classes as you need.\
 
 ### 5. Export Labels
 
-Once you've finished, select the export tool on the top right.
+![](<../.gitbook/assets/Screenshot 2021-11-26 at 16.45.51.jpg>)
 
-![](https://lh3.googleusercontent.com/3K_EKiUpd9e5fYxeGI078TwYKKu8QkWgj1we1kjTZLYofRfGeP-vQl7nyBdVfivbw_tL6hmFsFdc84MKDjN3s8wT2enHFHUqvZ9U1mdRQarK5qMhH9Bj9y-X_qdS4gJapFcb0zmv)
+Once you've finished, select the export tool on the top right.
 
 A small pop-up will appear with information about the number of labels and will prompt you to specify the export format, such as [COCO](https://cocodataset.org/#home).
 

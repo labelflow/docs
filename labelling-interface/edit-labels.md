@@ -29,5 +29,3 @@ Simply select an edge and drag the vertex that appears on your chosen position.
 Click anywhere inside the label and drag it to another position
 
 {% embed url="https://youtu.be/YXDsjE-47XY" %}
-
-{% embed url="https://youtu.be/LDV51jgwFnk" %}
