@@ -5,12 +5,14 @@
 ## Labelling interface
 
 * [Quick start](labelling-interface/quick-start.md)
-* [Bounding boxes](labelling-interface/bounding-boxes.md)
-* [Polygons](labelling-interface/polygons.md)
+* [Label types](labelling-interface/label-types/README.md)
+  * [Image classification](labelling-interface/label-types/image-classification.md)
+  * [Bounding boxes](labelling-interface/label-types/bounding-boxes.md)
+  * [Polygons](labelling-interface/label-types/polygons.md)
+  * [Auto polygons](labelling-interface/label-types/auto-polygons.md)
 * [Edit labels](labelling-interface/edit-labels.md)
 * [Datasets](labelling-interface/datasets.md)
 * [Classes](labelling-interface/classes.md)
-* [Image classification](labelling-interface/image-classification.md)
 * [Shortcuts](labelling-interface/shortcuts.md)
 
 ## Import dataset

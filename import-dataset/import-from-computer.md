@@ -16,7 +16,7 @@ These are the simple steps you should follow to import from your computer:
 
 It's that easy. 🔥👌
 
-![](../.gitbook/assets/drag\_and\_drop\_images.png)
+{% embed url="https://youtu.be/X9l8P9WGLHE" %}
 
 {% hint style="info" %}
 Images are not uploaded to LabelFlow servers so you are in control of your data.

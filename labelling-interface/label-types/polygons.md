@@ -12,7 +12,7 @@ These are the simple steps you need to take to make a polygon label:
 4. When you are finished click on the vertex near the pointer and the polygon will be created
 5. Right-click on the label to select/add its class
 
-![](../.gitbook/assets/polygon_tool.png)
+![](../../.gitbook/assets/polygon\_tool.png)
 
 {% hint style="info" %}
 You can create vertices and move existing ones to change the shape and size of the polygon!
@@ -20,6 +20,4 @@ You can create vertices and move existing ones to change the shape and size of t
 * Add vertices to the polygon by selecting an edge and dragging the vertex that appears
 * Select and drag an existing vertex to move it
 {% endhint %}
-
-
 
