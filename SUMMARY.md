@@ -15,6 +15,14 @@
 * [Classes](labelling-interface/classes.md)
 * [Shortcuts](labelling-interface/shortcuts.md)
 
+## Workspaces
+
+* [Introduction to Workspaces](workspaces/introduction-to-workspaces/README.md)
+  * [Sign in](workspaces/introduction-to-workspaces/sign-in.md)
+  * [Create a Workspace](workspaces/introduction-to-workspaces/create-a-workspace.md)
+  * [Invite Members](workspaces/introduction-to-workspaces/invite-members.md)
+  * [Workspace settings & billing](workspaces/introduction-to-workspaces/workspace-settings-and-billing.md)
+
 ## Import dataset
 
 * [Import from Database](import-dataset/import-from-database.md)

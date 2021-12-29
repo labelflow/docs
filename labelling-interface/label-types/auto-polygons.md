@@ -21,7 +21,7 @@ This is as simple as moving the target keypoint ![](<../../.gitbook/assets/Type=
 {% hint style="info" %}
 **Always start** by moving the target keypoint ![](<../../.gitbook/assets/Type=target, Size=16px.png>) to another position on the object if the generated polygon is not good enough.\
 \
-**Only after start** adding inside and outside keypoints.
+**Only after adjusting the target keypoint should you start** adding inside and outside keypoints.
 {% endhint %}
 
 {% embed url="https://youtu.be/uxS4eW2p5Cw" %}
@@ -32,7 +32,7 @@ Easily adjust an Auto Polygon geometry by adding inside or outside keypoints
 
 * Click on ![](../../.gitbook/assets/Button.png) to activate the selection mode (or press `v` for the shortcut)
 * Click on the polygon you want to edit
-* Select the polygon edition mode ![](<../../.gitbook/assets/Toggle Button Edit.png>)(next to the class selection menu in the top left). You can press  `e` to switch between both edition mode.
+* Select the polygon edition mode ![](<../../.gitbook/assets/Toggle Button Edit.png>)(next to the class selection menu in the top left). You can press  `e` to switch between both edition modes.
 * You can now drag any points on the contour to adjust the polygon geometry
 
 This edition mode is also illustrated in the above video.
