@@ -10,7 +10,7 @@ As the images on LabelFlow are stored locally only, there is no authentication n
 
 ## **Perform our first GraphQL Query**
 
-Let’s write a graphQL query which asks for the ids**, **names, and dataset id of the first 10 images you have access to**:**
+Let’s write a graphQL query which asks for the ids**,** names, and dataset id of the first 10 images you have access to**:**
 
 ![](<../.gitbook/assets/image (4).png>)
 
@@ -28,7 +28,7 @@ You can now run the query by pressing the ▶️“Run Query Button” in the to
 
 ## **Access the interactive documentation**
 
-Our Graph API is self-documented. **You can access all the documentation in the GraphQL playground. **There are several ways to benefit from the documentation:
+Our Graph API is self-documented. **You can access all the documentation in the GraphQL playground.** There are several ways to benefit from the documentation:
 
 * Automatic autocompletion of your queries
 * Manual autocompletion of your queries, triggered by pressing CTRL-SPACE when writing a query in the query area
