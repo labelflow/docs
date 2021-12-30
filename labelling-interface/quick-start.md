@@ -6,6 +6,8 @@ Let us take the case that you are making an AI model that identifies rhinos from
 
 The first step is to gather a dataset of images containing rhinos. You can save it online or store it locally on your computer. Your data stays in its original location during the entire project so that you are in control of your data.
 
+{% embed url="https://youtu.be/zqlL2XRtNLo" %}
+
 ### 2. Create a dataset
 
 ![](<../.gitbook/assets/Screenshot 2021-11-26 at 16.35.33.jpg>)

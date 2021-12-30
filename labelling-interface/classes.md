@@ -16,15 +16,13 @@ When you create a new labeling project, it comes with the default class "None". 
 
 ### Edit Classes
 
-The classes tab in your project space shows all the information about all the classes in your project. The total number of classes is also visible to help you. The numbers that appear next to the class names are the respective keyboard shortcuts that can be used to quickly select the appropriate class.&#x20;
-
-![](<../.gitbook/assets/Screenshot 2021-10-06 at 11.22.08.png>)
+The classes tab in your project space shows all the information about all the classes in your project. The total number of classes is also visible to help you, as well as the number of occurences for each class. Furthermore, this screen details the keyboard shortcuts that can be used to quickly select the appropriate class.&#x20;
 
 You can change the name of a class by selecting the edit icon and giving your class a new name.
 
 You can also delete a class and all labels associated with it will be classified as "None".
 
-
+![](<../.gitbook/assets/Screenshot 2021-12-30 at 09.48.34.png>)
 
 ### Managing  Complex Taxonomies&#x20;
 
@@ -34,6 +32,6 @@ The use of the `/` to separate classes and subclasses is widely used and easily 
 
 An example schema could be: `Object/Material/Defect` for infrastructure inspections, or even `Object/Type/Material/Defect`.&#x20;
 
-![](<../.gitbook/assets/Screenshot 2021-10-11 at 11.23.37 (1).jpg>)
-
 Using this methodology to manage complex taxonomies and use-cases allows for the classes to be easily interpreted once exported.
+
+![](<../.gitbook/assets/Screenshot 2021-12-30 at 09.46.11.png>)
