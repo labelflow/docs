@@ -11,4 +11,6 @@ LabelFlow supports the following labeling types:
 * Polygons
 * Auto polygons (a polygon generated from a bounding box)
 
-You can read more about the different label types on our dedicated post: [https://labelflow.ai/posts/choosing-the-right-image-labeling-types-for-ai-training-1](https://labelflow.ai/posts/choosing-the-right-image-labeling-types-for-ai-training-1)
+You can read more about the different label types on our dedicated post:&#x20;
+
+{% embed url="https://labelflow.ai/posts/choosing-the-right-image-labeling-types-for-ai-training-1" %}

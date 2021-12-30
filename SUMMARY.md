@@ -17,11 +17,11 @@
 
 ## Workspaces
 
-* [Introduction to Workspaces](workspaces/introduction-to-workspaces/README.md)
-  * [Sign in](workspaces/introduction-to-workspaces/sign-in.md)
-  * [Create a Workspace](workspaces/introduction-to-workspaces/create-a-workspace.md)
-  * [Invite Members](workspaces/introduction-to-workspaces/invite-members.md)
-  * [Workspace settings & billing](workspaces/introduction-to-workspaces/workspace-settings-and-billing.md)
+* [Introduction to Workspaces](workspaces/introduction-to-workspaces.md)
+* [Sign in](workspaces/sign-in.md)
+* [Create a Workspace](workspaces/create-a-workspace.md)
+* [Invite Members](workspaces/invite-members.md)
+* [Workspace settings & billing](workspaces/workspace-settings-and-billing.md)
 
 ## Import dataset
 
