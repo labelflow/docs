@@ -6,12 +6,10 @@ description: The beginner's guide to the image labelling annotation tool LabelFl
 
 ## What is LabelFlow?
 
-At LabelFlow we are on a mission to build the fastest labeling interface on the internet!
-
-Our mission is to provide the AI community with a solution that seamlessly integrates within their software ecosystem while providing the most straightforward labeling experience.  LabelFlow is also [open](https://github.com/Labelflow/labelflow) because involving the users helps us build a better platform FOR the users.&#x20;
+At LabelFlow we are on a mission to build GitHub for Visual Data. We first started building an open source image labeling platform focused on user experience. We are now working on more advanced features to manage datasets and allow you build the next big thing with AI ! You can find the code on [Github here](https://github.com/labelflow/labelflow), feel free to ping us [on Discord](https://discord.gg/nCyNaTQS) as well, there are impactful contributions to bring to the project.&#x20;
 
 ![](.gitbook/assets/king\_of\_the\_jungle.png)
 
-Based on years of experience working in the energy space helping utility companies to identify hazards on power grids, we clearly figured out that it was possible to bring AI to scale in complex use cases, saving time and increasing reliability. However, there is a “BUT”. There is no secret sauce: the dataset must be large, homogeneous, AND accurately labeled.
+After 5 years building [Sterblue](https://www.sterblue.com), an AI-powered platform for the energy space helping to identify hazards on power grids and wind turbines, LabelFlow founding team figured out that it was possible to bring AI to scale in complex use cases. It usually brings better reliability, more productivity and hence a better user experience but this has a price and there is no secret sauce: the dataset must be large, homogeneous, and accurately labeled. Machine Learning models performance mainly comes from the quality of the datasets, less from the model itself.&#x20;
 
-Head on over to [Quick start ](labelling-interface/quick-start.md)and let us take a test case to see how you can leverage LabelFlow to bring your machine learning models to scale today!
+Head on over to [Quick start ](labelling-interface/quick-start.md)and let us take a test case to see how you can leverage LabelFlow to bring your machine learning models to scale today.
