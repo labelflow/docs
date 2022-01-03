@@ -4,7 +4,7 @@ Let us take the case that you are making an AI model that identifies rhinos from
 
 ### 1. Gather Image Dataset
 
-The first step is to gather a dataset of images containing rhinos. You can save it online or store it locally on your computer. Your data stays in its original location during the entire project so that you are in control of your data.
+The first step is to gather a dataset of images containing rhinos. One specific point of LabelFlow is that you you can save it online or store it locally on your computer. Your data stays in its original location during the entire project so that you are in control of your data.
 
 {% embed url="https://youtu.be/zqlL2XRtNLo" %}
 
@@ -50,8 +50,7 @@ Click on the keyboard icon on the top right to see the complete list of shortcut
 
 ![](../.gitbook/assets/screen-shot-2021-08-19-at-1.03.26-pm.png)
 
-Labels can overlap, intersect or encompass other labels. Zoom in on your images by using the top right button or by using the trackpad.\
-Create as many label classes as you need.\
+Labels can overlap, intersect or encompass other labels. Zoom in on your images by using the top right button or by using the trackpad. Create as many label classes as you need.\
 
 
 ### 5. Export Labels
