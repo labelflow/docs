@@ -20,14 +20,14 @@ You can change the name of your workspace from the settings tab. Making modifica
 You'll also be able to consult and update your current plan, payment methods and billing information from the settings tab to match your needs.&#x20;
 
 {% hint style="info" %}
-LabelFlow offers plans ranging from 1000 images hosted for free, up to 50,000 images. Forn needs above 50,000 hosted images, feel free to contact the team on our [Discord server](https://discord.com/channels/877517176498692166/877517176498692169) to discuss the options.&#x20;
+LabelFlow offers plans ranging from 1000 images hosted for free, up to 50,000 images. For needs above 50,000 hosted images, feel free to contact the team on our [Discord server](https://discord.com/channels/877517176498692166/877517176498692169) to discuss the options or by email contact@labelflow.ai .&#x20;
 {% endhint %}
 
 ![](<../.gitbook/assets/Screenshot 2021-12-29 at 16.09.35.png>)
 
 ### Delete Workspace
 
-This is what we call the _Danger Zone_. You can delete a workspace along with all of it's data from the settings tab. In order to delete the workspace for good, you will be prompted to type the workspace's name to avoid any potential accidents.&#x20;
+This is what we call the _Danger Zone_. You can delete a workspace along with all of its data from the settings tab. In order to delete the workspace for good, you will be prompted to type the workspace's name to avoid any potential accidents.&#x20;
 
 {% hint style="info" %}
 * Deleting the **Workspace** workspace will delete all of its images and labels
