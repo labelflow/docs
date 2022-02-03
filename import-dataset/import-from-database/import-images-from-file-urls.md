@@ -1,6 +1,8 @@
-# Import Images from File URLs
+---
+description: Simply paste the image URLs in the Image uploader
+---
 
-There are two ways to import images and labels to your dataset. The first method is to import them from an online source such as your database or other online sources. All you need to provide is the URL to the images and that's it.
+# Import Images from File URLs
 
 These are the simple steps you should follow to import from your database:
 
@@ -14,7 +16,5 @@ It's that easy. 🔥👌
 
 
 {% embed url="https://youtu.be/ls4FHAx0k_g" %}
-
-{% hint style="info" %}
-Images are not uploaded to LabelFlow servers so you are in control of your data.
-{% endhint %}
+Images uploaded by providing their URLs to LabelFlow
+{% endembed %}

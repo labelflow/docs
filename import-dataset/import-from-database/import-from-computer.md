@@ -1,12 +1,8 @@
 ---
-description: Import images from your computer to LabelFlow
+description: Simply drag and drop the image files in the image uploader
 ---
 
 # Import Images from Files
-
-Use this import method when you want to import images and labels from your local computer.&#x20;
-
-## Import images only
 
 These are the simple steps you should follow to import from your computer:
 
