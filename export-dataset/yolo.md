@@ -1,4 +1,4 @@
-# YOLO
+# 👁 YOLO
 
 ### Exporting your labels
 
@@ -12,15 +12,13 @@ A small pop-up will appear with information about the number of labels and promp
 
 
 
-### Exporting Images 
+### Exporting Images&#x20;
 
 As an option, you can export the images together with the YOLO detection file in a zip file.
 
 ![](../.gitbook/assets/screenshot-2021-10-05-at-12.46.13.png)
 
 {% hint style="info" %}
-Note that it may take several minutes ⏱ when you export the images of a large dataset \(1000+ images\).
+Note that it may take several minutes ⏱ when you export the images of a large dataset (1000+ images).
 {% endhint %}
-
-
 

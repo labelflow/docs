@@ -1,8 +1,14 @@
-# FAQ
+# ❓ FAQ
+
+## Can I migrate a dataset on my Local workspace to an online workspace?
+
+Yes! Here are the instructions:
+
+1. Open the dataset you wish to export: LabelFlow allows you to import COCO annotations. You can thus export your annotations With this in mind, you just need to export your annotations in the COCO format to import it in your online worExport your annotations in the COCO format and upload
 
 ## Can I work on a dataset with my team?
 
-Yes! You need to sign-in and to [create an online workspace](../workspaces/create-a-workspace.md) and invite your team to your newly created workspace.
+Yes! You need to sign-in, [create an online workspace](../workspaces/create-a-workspace.md) and [invite your team](../workspaces/invite-members.md) to the newly created workspace.
 
 ## Can I request a new feature?
 

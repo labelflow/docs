@@ -1,4 +1,4 @@
-# Classes
+# 🎨 Classes
 
 A class is a category in which labels are classified. It helps group similar labels together, which is essential for any labeling project. A class is defined by its name and has its own color to help differentiate it from the others.
 

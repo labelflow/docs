@@ -5,7 +5,7 @@ description: >-
   use these collaborative tools for free now.
 ---
 
-# Workspace settings & billing
+# 💸 Workspace Settings & Billing
 
 The settings tab is where you'll be able to update your workspace's name, your plan and also delete your workspace.
 

@@ -5,7 +5,7 @@ description: >-
   use these collaborative tools for free now.
 ---
 
-# Invite Members
+# 📧 Invite Members
 
 Online Workspaces can be shared with teammates, unlocking new levels of productivity through collaboration.&#x20;
 

@@ -1,4 +1,4 @@
-# Edit labels
+# ✏ Edit labels
 
 Once you have created a label for your object, you may want to change its shape, size, location, or class.
 

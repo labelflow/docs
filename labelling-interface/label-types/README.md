@@ -1,4 +1,4 @@
-# Label types
+# 🎟 Label Types
 
 Choosing the right label type for your image annotation project is important. Classification tags will maximize your labeling productivity, while polygons will boost your AI performance and bounding boxes may be for some an acceptable compromise.
 

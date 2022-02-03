@@ -5,7 +5,7 @@ description: >-
   use these collaborative tools for free now.
 ---
 
-# Create a Workspace
+# ➕ Create a Workspace
 
 ### Create a Workspace
 

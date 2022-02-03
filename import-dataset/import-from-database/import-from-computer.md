@@ -2,7 +2,7 @@
 description: Import images and labels from your computer
 ---
 
-# Import from Computer
+# Import Images from Files
 
 Use this import method when you want to import images and labels from your local computer.&#x20;
 
@@ -33,7 +33,7 @@ LabelFlow can ingest Images and Labels into a dataset. For that you must drop a 
 
 It's that easy. 🔥👌
 
-![](<../.gitbook/assets/Screen Recording 2021-11-09 at 14.24.23.mov.gif>)
+![](<../../.gitbook/assets/Screen Recording 2021-11-09 at 14.24.23.mov.gif>)
 
 {% hint style="info" %}
 This feature allows you to share a dataset with someone: from LabelFlow export the dataset in COCO format, your colleague can then import the zip file in a new dataset.

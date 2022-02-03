@@ -1,4 +1,4 @@
-# Shortcuts
+# ⌨ Shortcuts
 
 There are many shortcuts in LabelFlow you can take advantage of to optimize your productivity. Click on the keyboard icon on the top right to see the complete list of shortcuts
 

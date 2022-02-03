@@ -1,4 +1,4 @@
-# Quick start
+# 🤸 Quick Start
 
 Let us take the case that you are making an AI model that identifies rhinos from an image for wildlife protection services. You need to train your model with high-quality labeled images so you can produce an effective tool against poaching. These are the steps you can follow to get prepare the high-quality labeled images.
 

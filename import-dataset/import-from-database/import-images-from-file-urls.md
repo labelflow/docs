@@ -1,10 +1,6 @@
----
-description: Import images by copy-pasting their public URLs
----
+# Import Images from File URLs
 
-# Import from Database
-
-There are two ways to import images and labels to your dataset. The first method is to import them from an online source such as your database or other online sources. All you need to provide is the link to the images and that's it.
+There are two ways to import images and labels to your dataset. The first method is to import them from an online source such as your database or other online sources. All you need to provide is the URL to the images and that's it.
 
 These are the simple steps you should follow to import from your database:
 

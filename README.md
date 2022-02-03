@@ -2,7 +2,7 @@
 description: The beginner's guide to the image labelling annotation tool LabelFlow
 ---
 
-# Intro to LabelFlow
+# 👋 Intro to LabelFlow
 
 ## What is our mission at LabelFlow?
 

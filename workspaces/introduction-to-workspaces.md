@@ -5,7 +5,7 @@ description: >-
   use these collaborative tools for free now.
 ---
 
-# Introduction to Workspaces
+# 🏢 Introduction to Workspaces
 
 By default, LabelFlow users have **one local** or **offline** workspace, where they can label and export their datasets from their computers without ever having to sign in.&#x20;
 

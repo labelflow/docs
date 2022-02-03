@@ -1,4 +1,4 @@
-# Datasets
+# 🗂 Datasets
 
 Each labeling project has its own dataset which is a collection of images that are prepared to be labeled. You can view all the images in your dataset on the Images tab of your project.
 
