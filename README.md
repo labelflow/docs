@@ -4,7 +4,7 @@ description: The beginner's guide to the image labelling annotation tool LabelFl
 
 # Intro to LabelFlow
 
-## What's our mission at LabelFlow?
+## What is our mission at LabelFlow?
 
 At LabelFlow we are on a mission to build GitHub for Visual Data. We first started building an open source image labeling platform focused on user experience. We are now working on more advanced features to manage datasets and allow you build the next big thing with AI ! You can find the code on [Github here](https://github.com/labelflow/labelflow), feel free to ping us [on Discord](https://discord.gg/nCyNaTQS) as well, there are impactful contributions to bring to the project.&#x20;
 
