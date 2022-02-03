@@ -23,14 +23,14 @@
 * [📧 Invite Members](workspaces/invite-members.md)
 * [💸 Workspace Settings & Billing](workspaces/workspace-settings-and-billing.md)
 
-## Import dataset
+## Import a dataset <a href="#import-dataset" id="import-dataset"></a>
 
 * [🖼 Import Images](import-dataset/import-from-database/README.md)
   * [Import Images from Files](import-dataset/import-from-database/import-from-computer.md)
   * [Import Images from File URLs](import-dataset/import-from-database/import-images-from-file-urls.md)
 * [🖊 Import Annotations](import-dataset/import-annotations.md)
 
-## Export dataset
+## Export a dataset <a href="#export-dataset" id="export-dataset"></a>
 
 * [🥥 COCO](export-dataset/coco.md)
 * [👁 YOLO](export-dataset/yolo.md)
