@@ -18,3 +18,7 @@ It's that easy. 🔥👌
 {% embed url="https://youtu.be/ls4FHAx0k_g" %}
 Images uploaded by providing their URLs to LabelFlow
 {% endembed %}
+
+{% hint style="info" %}
+You can also import 🖊 annotations in the COCO format, [it's explained here](../import-annotations.md).
+{% endhint %}
