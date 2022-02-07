@@ -5,11 +5,11 @@ description: Migrate a dataset in your local workspace to an online workspace
 # 📦 Migrate a Local Dataset
 
 {% hint style="info" %}
-The local workspace feature is being discontinued.
+:warning:The local workspace feature is being discontinued.
 
-**Migrate the datasets in your local workspace to an online workspace before Monday the 14th of February 2022 11:59 pm CET.**
+**Migrate the datasets in your local workspace to an online workspace before** :calendar\_spiral: **Monday the 14th of February 2022 11:59 pm CET.**
 
-PS: Online Workspaces are Free too
+PS: Online workspaces are free too :relaxed:
 {% endhint %}
 
 To not loose any data, you need to migrate your local datasets to an online workspace. It's an easy process. Follow these instructions:
@@ -20,7 +20,7 @@ To not loose any data, you need to migrate your local datasets to an online work
 * Open the dataset you wish to migrate
 * Click on Export in the top right
   * Select the COCO format
-  * **Export the annotations only**, it will save a JSON file to your computer
+  * In the displayed options, choose to **export the annotations only**, it will save a JSON file to your computer
 
 ![Export your local datasets in the COCO format.](<../.gitbook/assets/image (7).png>)
 
@@ -34,7 +34,7 @@ To not loose any data, you need to migrate your local datasets to an online work
 ### 3. Import your local datasets to the online workspace
 
 * Create a new dataset. This dataset is hosted in your online workspace.\
-  Make sure you have selected your Online Workspace in the workspace switcher first (see above)
+  Make sure you have selected your online workspace in the workspace switcher (see above)
 * Click on the dataset card to open the image gallery view
 * Click on the **Add images** button
   * Start by uploading the images you had in your local dataset you have exported at [step 1](migrate-a-local-dataset.md#1.-export-your-local-datasets). Once done, close the Import modal to come back to the image gallery view.
