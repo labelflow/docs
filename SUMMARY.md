@@ -29,6 +29,7 @@
   * [Import Images from Files](import-dataset/import-from-database/import-from-computer.md)
   * [Import Images from File URLs](import-dataset/import-from-database/import-images-from-file-urls.md)
 * [🖊 Import Annotations](import-dataset/import-annotations.md)
+* [📦 Migrate a Local Dataset](import-dataset/migrate-a-local-dataset.md)
 
 ## Export a dataset <a href="#export-dataset" id="export-dataset"></a>
 
