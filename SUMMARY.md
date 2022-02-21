@@ -35,6 +35,7 @@
 
 * [🥥 COCO](export-dataset/coco.md)
 * [👁 YOLO](export-dataset/yolo.md)
+* [🧾 CSV](export-dataset/csv.md)
 
 ## API
 
