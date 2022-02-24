@@ -4,7 +4,7 @@ Let us take the case that you are making an AI model that identifies rhinos from
 
 ### 1. Gather Image Dataset
 
-The first step is to gather a dataset of images containing rhinos. One specific point of LabelFlow is that you you can save it online or store it locally on your computer. Your data stays in its original location during the entire project so that you are in control of your data.
+The first step is to gather a dataset of images containing rhinos.
 
 {% embed url="https://youtu.be/zqlL2XRtNLo" %}
 
