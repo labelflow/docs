@@ -2,7 +2,7 @@
 
 The AI Assistant tool :drum: assists (...) you in the labelling process! Each Assistant is an AI trained on a specific task.
 
-LabelFlow launched the feature with 2 general purpose AI Assistants:
+There is for now 2 general purpose AI Assistants (more will come!):
 
 * **DETR - COCO** an object detection AI Assistant trained across 80 classes. [More here](detr-coco.md).
 * **ViT - ImageNet** an image classification AI Assistant trained across 1000 classes. [More here](vit-imagenet.md).
@@ -11,7 +11,7 @@ As we are launching the feature, every plans (Community, Starter, Pro) have acce
 
 {% hint style="info" %}
 **Productivity tip**\
-From the labeling view: press **`i`** to select the AI Assistant tool and **`r`** to run the AI Assistant.
+From the labeling view: press the **`i`** key to select the AI Assistant tool and **`r`** to run the AI Assistant.
 {% endhint %}
 
 ### Specific AI Assistant Requests
