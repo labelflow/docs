@@ -1,16 +1,20 @@
 # DETR - COCO
 
+### Presentation
+
 The DEtection TRansformer (DETR) model was trained on the [COCO 2017 dataset](https://cocodataset.org/#explore) (118,000 images) and is hosted by Hugging Face. You can find its complete description card [here](https://huggingface.co/facebook/detr-resnet-50).
 
 The AI Assistant outputs by default bounding boxes around the detected objects. If the detected object class does not exist in the dataset, the AI assistant will create it.
 
-## Option
+### Generate Polygons instead of Bounding Boxes
 
+It is possible to transform a bounding box into a polygon by selecting the Post-process option. Note that the inference time will be slightly longer by selecting this option.
 
+![Post-processing option to generate polygons instead of bounding boxes](<../.gitbook/assets/image (12).png>)
 
-## Classes
+### Classes
 
-The AI Assistant is able to detect 80 different classes of objects:
+DETR - COCO AI Assistant is able to detect 80 different classes of objects (some better than others we must say...!)
 
 ```
 person
