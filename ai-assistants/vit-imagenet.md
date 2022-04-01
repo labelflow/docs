@@ -1,4 +1,4 @@
-# ViT - ImageNet
+# 👁 ViT - ImageNet
 
 ### Presentation
 

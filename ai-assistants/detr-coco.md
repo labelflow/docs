@@ -1,4 +1,4 @@
-# DETR - COCO
+# 🥥 DETR - COCO
 
 ### Presentation
 

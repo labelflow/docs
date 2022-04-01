@@ -17,9 +17,9 @@
 
 ## ⚡ AI Assistants
 
-* [Presentation](ai-assistants/presentation.md)
-* [DETR - COCO](ai-assistants/detr-coco.md)
-* [ViT - ImageNet](ai-assistants/vit-imagenet.md)
+* [👩🏫 Presentation](ai-assistants/presentation.md)
+* [🥥 DETR - COCO](ai-assistants/detr-coco.md)
+* [👁 ViT - ImageNet](ai-assistants/vit-imagenet.md)
 
 ## Workspaces
 
