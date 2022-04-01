@@ -4,9 +4,11 @@ The AI Assistant tool :drum: assists (...) you in the labelling process! Each As
 
 ### Short Demo
 
-[https://www.youtube.com/watch?v=RY\_hN3F74O4](https://www.youtube.com/watch?v=RY\_hN3F74O4)
+{% embed url="https://www.youtube.com/watch?v=RY_hN3F74O4" %}
+AI Assistant in 30 seconds
+{% endembed %}
 
-There is for now 2 general purpose AI Assistants (more will come!):
+For now there are 2 general purpose AI Assistants (more will come, vote below!):
 
 * **DETR - COCO** an object detection AI Assistant trained across 80 classes. [More here](detr-coco.md).
 * **ViT - ImageNet** an image classification AI Assistant trained across 1000 classes. [More here](vit-imagenet.md).
