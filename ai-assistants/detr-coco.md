@@ -12,6 +12,10 @@ It is possible to transform a bounding box into a polygon by selecting the Post-
 
 ![Post-processing option to generate polygons instead of bounding boxes](<../.gitbook/assets/image (12).png>)
 
+### Sample Image
+
+![Automatic cat and dog detection by DETR - COCO AI Assistant](<../.gitbook/assets/image (11).png>)
+
 ### Classes
 
 DETR - COCO AI Assistant is able to detect 80 different classes of objects (some better than others we must say...!)
