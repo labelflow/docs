@@ -10,6 +10,8 @@ There are many shortcuts in LabelFlow you can take advantage of to optimize your
 * Press `b` to select the bounding box tool
 * Press `p` to select the polygon tool
 * Press `k` to select the classification tool
+* Press `a` to select the Auto-Polygon tool
+* Press `i` to select the AI Assistant tool and `r` to run the AI Assistant
 * Press `c` to change the class of the currently selected label
 * Press `del` or `Backspace` to delete the selected label
 * Press from `0` to `9` to select the corresponding class for the selected label
@@ -17,8 +19,8 @@ There are many shortcuts in LabelFlow you can take advantage of to optimize your
 
 ### Navigation
 
-* Press ⬅️Left arrow key to navigate to the previous image
-* Press ➡️Right arrow key to navigate to the next image
+* Press ⬅️ Left arrow key to navigate to the previous image
+* Press ➡️ Right arrow key to navigate to the next image
 
 ### Edit
 
