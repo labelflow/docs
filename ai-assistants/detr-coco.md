@@ -2,6 +2,12 @@
 
 The DEtection TRansformer (DETR) model was trained on the [COCO 2017 dataset](https://cocodataset.org/#explore) (118,000 images) and is hosted by Hugging Face. You can find its complete description card [here](https://huggingface.co/facebook/detr-resnet-50).
 
+The AI Assistant outputs by default bounding boxes around the detected objects. If the detected object class does not exist in the dataset, the AI assistant will create it.
+
+## Option
+
+
+
 ## Classes
 
 The AI Assistant is able to detect 80 different classes of objects:

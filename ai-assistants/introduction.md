@@ -9,9 +9,20 @@ LabelFlow launched the feature with 2 general purpose AI Assistants:
 
 As we are launching the feature, every plans (Community, Starter, Pro) have access to the AI Assistant tool so long it remains within a fair usage.
 
-Do you have specific needs in terms of AI Assistants? Upvote or add your own request [here](https://labelflow.canny.io/ai-assistants) ⬇️
+{% hint style="info" %}
+**Productivity tip**\
+From the labeling view: press **`i`** to select the AI Assistant tool and **`r`** to run the AI Assistant.
+{% endhint %}
+
+### Specific AI Assistant Requests
+
+If you have specific needs in terms of AI Assistants, upvote or add your own request [here](https://labelflow.canny.io/ai-assistants) ⬇️
 
 {% embed url="https://labelflow.canny.io/ai-assistants" %}
+Upvote for the next AI Assistant you wish to see in LabelFlow
+{% endembed %}
+
+### Sample Images
 
 ![Object detection with DETR - COCO AI Assistant](<../.gitbook/assets/image (11).png>)
 
