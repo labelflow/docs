@@ -4,7 +4,9 @@ The AI Assistant tool :drum: assists (...) you in the labelling process! Each As
 
 ### Short Demo
 
-[https://youtu.be/Ef9lTevDAys](https://youtu.be/Ef9lTevDAys)
+{% embed url="https://youtu.be/Ef9lTevDAys" %}
+AI Assistant in 30 seconds
+{% endembed %}
 
 There is for now 2 general purpose AI Assistants (more will come!):
 
