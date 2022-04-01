@@ -2,6 +2,10 @@
 
 The AI Assistant tool :drum: assists (...) you in the labelling process! Each Assistant is an AI trained on a specific task.
 
+### Short Demo
+
+[https://youtu.be/Ef9lTevDAys](https://youtu.be/Ef9lTevDAys)
+
 There is for now 2 general purpose AI Assistants (more will come!):
 
 * **DETR - COCO** an object detection AI Assistant trained across 80 classes. [More here](detr-coco.md).
