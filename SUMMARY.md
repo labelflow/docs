@@ -15,6 +15,12 @@
 * [🎨 Classes](labelling-interface/classes.md)
 * [⌨ Shortcuts](labelling-interface/shortcuts.md)
 
+## ⚡ AI Assistants
+
+* [Introduction](ai-assistants/introduction.md)
+* [DETR - COCO](ai-assistants/detr-coco.md)
+* [ViT - ImageNet](ai-assistants/vit-imagenet.md)
+
 ## Workspaces
 
 * [🏢 Introduction to Workspaces](workspaces/introduction-to-workspaces.md)

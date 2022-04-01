@@ -21,7 +21,7 @@ Let's imagine you want to move a dataset from a workspace that we'll call `old-w
 * Click on `Create workspace` by opening the workspace switcher (top left - or [click here](https://labelflow.ai/local/datasets?modal-create-workspace\&workspace-name=))![](<../.gitbook/assets/image (9).png>)
 * Name your workspace (it has to be unique across the entire LabelFlow community)
 * Sign-in if you are not already signed-in
-* You now have an online workspace in the workspace switcher. Select it.![](<../.gitbook/assets/image (10).png>)
+* You now have an online workspace in the workspace switcher. Select it.![](<../.gitbook/assets/image (10) (1).png>)
 
 ### 3. Import your dataset to the `new-workspace`
 
