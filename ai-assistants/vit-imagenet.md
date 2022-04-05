@@ -10,7 +10,7 @@ ViT - ImageNet performs image classification, it add tags corresponding to the d
 
 ### Classes
 
-ViT - ImageNet AI Assistant is able to detect 1000 different classes of objects (some better than others we must say...!). The complete list is available here: [https://image-net.org/challenges/LSVRC/2012/browse-synsets.php](https://image-net.org/challenges/LSVRC/2012/browse-synsets.php)
+ViT - ImageNet AI Assistant is able to detect 1000 different classes of objects (some better than others we must say...!).
 
 ```
 kit fox, Vulpes macrotis
