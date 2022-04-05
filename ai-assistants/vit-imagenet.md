@@ -6,7 +6,7 @@ Vision Transformer (ViT) model was pre-trained by Google on ImageNet-21k (14 mil
 
 ViT - ImageNet performs image classification, it add tags corresponding to the detected object onto the image. If the detected object class does not exist in the dataset, the AI assistant will create it.
 
-![](<../.gitbook/assets/image (13).png>)
+![An image automatically tagged as "Ox" by the 'ViT - ImageNet' AI Assistant](<../.gitbook/assets/image (13).png>)
 
 ### Classes
 
