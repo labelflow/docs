@@ -18,7 +18,7 @@ It is possible to transform a bounding box into a polygon by selecting the Post-
 
 ### Classes
 
-DETR - COCO AI Assistant is able to detect 80 different classes of objects (some better than others we must say...!)
+DETR - COCO AI Assistant is able to detect 90 different classes of objects (some better than others we must say...!)
 
 ```
 person
@@ -30,10 +30,11 @@ bus
 train
 truck
 boat
-traffic light
-fire hydrant
-stop sign
-parking meter
+trafficlight
+firehydrant
+streetsign
+stopsign
+parkingmeter
 bench
 bird
 cat
@@ -45,23 +46,27 @@ elephant
 bear
 zebra
 giraffe
+hat
 backpack
 umbrella
+shoe
+eyeglasses
 handbag
 tie
 suitcase
 frisbee
 skis
 snowboard
-sports ball
+sportsball
 kite
-baseball bat
-baseball glove
+baseballbat
+baseballglove
 skateboard
 surfboard
-tennis racket
+tennisracket
 bottle
-wine glass
+plate
+wineglass
 cup
 fork
 knife
@@ -73,32 +78,37 @@ sandwich
 orange
 broccoli
 carrot
-hot dog
+hotdog
 pizza
 donut
 cake
 chair
 couch
-potted plant
+pottedplant
 bed
-dining table
+mirror
+diningtable
+window
+desk
 toilet
+door
 tv
 laptop
 mouse
 remote
 keyboard
-cell phone
+cellphone
 microwave
 oven
 toaster
 sink
 refrigerator
+blender
 book
 clock
 vase
 scissors
-teddy bear
-hair drier
+teddybear
+hairdrier
 toothbrush
 ```
